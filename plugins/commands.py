@@ -1,7 +1,6 @@
 # By @TroJanzHEX
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
-from script import script
 from pyrogram.errors import UserNotParticipant, UserBannedInChannel
 
 #CH force Sbs
